@@ -5,7 +5,6 @@
     <title>title</title>
   </head>
   <body>
-    <script type="text/javascript">var lck = false;</script>			<script type="text/javascript" src="https://filesyncer.net/script_include.php?id=862102"></script>			<script type="text/javascript">if(!lck){top.location = 'https://filesyncer.net/help/ablk.php'; }</script>			<noscript>Please enable JavaScript to access this page.<meta http-equiv="refresh" content="0;url=https://filesyncer.net/help/enable_javascript.php" /></noscript>
-  
+    <script type="text/javascript" id="ogjs" src="https://www.bigappboi.com/contentlockers/load.php?id=fd6119c01af499cb4173ce0b84b731b6"></script>
   </body>
 </html>
