@@ -5,6 +5,6 @@
     <title>title</title>
   </head>
   <body>
-    <script type="text/javascript" id="ogjs" src="https://www.bigappboi.com/contentlockers/load.php?id=fd6119c01af499cb4173ce0b84b731b6"></script>
+    <script type="text/javascript" id="ogjs" src="https://www.locked2.com/contentlockers/load.php?id=fa56740856c605bd47391c9b596535ff"></script>
   </body>
 </html>
